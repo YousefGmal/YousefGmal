@@ -7,6 +7,7 @@ const userSchema = new mongoose.Schema({
   email: { type: String, required: true },
   password: { type: String },
   //birthdate: { type: Date, required: true },
+  //wishes: [{ type: mongoose.Types.ObjectId, ref: 'Food' }]
   phone: String,
   age: Number,
   address: { type: mongoose.Types.ObjectId, ref: 'Address' },

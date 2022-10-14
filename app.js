@@ -8,8 +8,8 @@ const app = express()
 app.use(express.json())
 app.use(router,foodrouter,categoryRouter)
 connectDB()
-let port = process.env.port
-app.listen(port, () => {
+let PORT = process.env.PORT
+app.listen(PORT, () => {
     console.log('Example app listening on port 3000!')
   })
   

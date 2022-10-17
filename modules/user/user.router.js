@@ -14,4 +14,5 @@ router.post("/user/googleLogin" , loginWithGoogle)
 // eslint-disable-next-line no-sequences
 router.post('/user/signin', signUpValidator[1, 2], handelValidation(), signin)
 router.get('/user/profile', auth, profile)
+router.get('/', (req, res) => {res.status(200).json({ message: 'done' })})
 module.exports = router

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Gamal</h1>
-<h3 align="center">A backend developer from Egypt</h3>
+<h3 align="center">A backend developer & Data scientist from Egypt</h3>
 
 - 🌱 I’m currently learning **Nestjs**
 

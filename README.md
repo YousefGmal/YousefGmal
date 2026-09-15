@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Gamal</h1>
-<h3 align="center">A backend developer & Data scientist from Egypt</h3>
+<h3 align="center">A backend engineer from Egypt</h3>
 
 - 🌱 I’m currently learning **Nestjs**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **nodejs, mongoDB, SQL**
 
-- 📫 How to reach me **ygmal49@gmail.com**
+- 📫 How to reach me **ygamalhosny@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,20 +1,167 @@
-<h1 align="center">Hi 👋, I'm Yousef Gamal</h1>
-<h3 align="center">A backend engineer from Egypt</h3>
+# 👋 Hi, I'm Yousef Gamal
 
-- 🌱 I’m currently learning **Nestjs**
+### 🚀 Backend Engineer | Node.js • TypeScript • Python
 
-- 👨‍💻 All of my projects are available at [https://github.com/YousefGmal](https://github.com/YousefGmal)
+I'm a **Computer Science graduate from Cairo University** passionate about building reliable, scalable, and maintainable backend systems.
 
-- 💬 Ask me about **nodejs, mongoDB, SQL**
+I enjoy turning business requirements into clean APIs, well-structured backend architectures, and practical products.
 
-- 📫 How to reach me **ygamalhosny@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yousef-gamal-737443205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousef-gamal-737443205" height="30" width="40" /></a>
+## 🧑‍💻 About Me
+
+* 🎓 Computer Science Graduate — **Cairo University**
+* 💻 Backend-focused Software Engineer
+* 🚀 Main stack: **Node.js, TypeScript, Express.js**
+* 🐍 Experience with **Python, Django & FastAPI**
+* 🗄️ Databases: **MongoDB & PostgreSQL**
+* 🔌 Interested in **REST APIs, System Design & Backend Architecture**
+* 🏗️ Interested in building **SaaS products and scalable backend systems**
+* 🤖 Exploring **AI integration & AI-powered applications**
+* 📚 Currently improving my knowledge in **Docker, Cloud & System Design**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Sanad — Education Platform
+
+A digital education platform connecting **parents, students, teachers, and educational centers**.
+
+**Highlights:**
+
+* 👨‍👩‍👧 Parent & student applications
+* 👨‍🏫 Teacher platform
+* 📊 Student performance tracking
+* 📝 Exams and grades
+* 📅 Attendance management
+* 🏆 Competitions, points & rewards
+* 🎥 Online educational content
+
+**Tech:** Node.js • Express.js • MongoDB • React • Kotlin
+
+---
+
+### 🏥 EMR Backend Platform
+
+A modular backend system for **clinics and hospitals**, designed to support different organization sizes while maintaining a shared architecture.
+
+**Highlights:**
+
+* 🏥 Multi-tenant architecture
+* 👨‍⚕️ Doctor & receptionist management
+* 📅 Appointment scheduling
+* 💰 Billing & insurance
+* 🕐 Working hours & availability
+* 📸 Medical image storage
+* 🔐 Authentication & authorization
+* 📋 FHIR-oriented healthcare data modeling
+
+**Tech:** Node.js • TypeScript • MongoDB • AWS S3
+
+---
+
+### 🤖 AI Integration Backend
+
+Backend services designed to integrate **AI/ML models into production applications**.
+
+**Highlights:**
+
+* 🔗 AI model integration
+* 📡 REST API communication
+* 🖼️ Image-based model processing
+* ☁️ Cloud storage integration
+* ⚙️ Backend orchestration
+
+**Tech:** Node.js • TypeScript • FastAPI • Python • MongoDB
+
+---
+
+### ✅ Todo API
+
+A backend application built while practicing **Spring Boot and PostgreSQL**, focusing on clean API design and backend fundamentals.
+
+**Features:**
+
+* Create tasks
+* Update tasks
+* Delete tasks
+* Retrieve tasks
+* Structured API responses
+* PostgreSQL persistence
+
+**Tech:** Java • Spring Boot • PostgreSQL
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefgmal&show_icons=true&locale=en&layout=compact" alt="yousefgmal" /></p>
+## 🎯 Currently Learning
+
+```text
+Backend Architecture
+        ↓
+System Design
+        ↓
+Docker & Containerization
+        ↓
+Cloud & AWS
+        ↓
+Scalable Backend Systems
+        ↓
+AI Integration
+```
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/yousef-gamal-737443205/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### 💡 "Build things that solve real problems."
+
+Thanks for visiting my profile! ⭐
